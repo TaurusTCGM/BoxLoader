@@ -1,31 +1,31 @@
-["boxloader_hidecargo_enabled","CHECKBOX",["Enable ""Hide Cargo"" feature","Can be changed mid-mission."],"Boxloader",true,true] call CBA_settings_fnc_init;
-["boxloader_maxload_enabled","CHECKBOX",["Enable player load weight limits","Limits the weight that players can load and push."],"Boxloader",false,true] call CBA_settings_fnc_init;
-["boxloader_push_enabled","CHECKBOX",["Enable pushing of objects.","Enables the pushing system."],"Boxloader",true,true] call CBA_settings_fnc_init;
-["boxloader_maxload_lift","SLIDER",["Maximum lift weight","The maximum weight a player can lift and load into something to chest height."],"Boxloader",[10,5000,50,0],true] call CBA_settings_fnc_init;
-["boxloader_maxload_overhead","SLIDER",["Maximum overhead weight","The maximum weight a player can lift and load into something above their head."],"Boxloader",[10,5000,30,0],true] call CBA_settings_fnc_init;
-["boxloader_maxload_push","SLIDER",["Maximum push weight","The maximum weight a player push on the ground, and load into things near ground level."],"Boxloader",[10,5000,200,0],true] call CBA_settings_fnc_init;
-["boxloader_maxload_minpush","SLIDER",["Minimum push weight","Only objects with a weight above this can be pushed, anything below can still be loaded. Should be at least zero to prevent pushing ""weightless"" objects."],"Boxloader",[-1,1000,10,0],true] call CBA_settings_fnc_init;
+["boxloader_hidecargo_enabled","CHECKBOX",[localize "STR_boxloader_Ena_Hid_Car_feat",localize "STR_boxloader_Can_be_chang_mid_mis"],"Boxloader",true,true] call CBA_settings_fnc_init;
+["boxloader_maxload_enabled","CHECKBOX",[localize "STR_boxloader_Ena_play_load_wei_lim",localize "STR_boxloader_Lim_wei_play_can_load_push"],"Boxloader",false,true] call CBA_settings_fnc_init;
+["boxloader_push_enabled","CHECKBOX",[localize "STR_boxloader_Ena_push_obj",localize "STR_boxloader_Ena_push_sys"],"Boxloader",true,true] call CBA_settings_fnc_init;
+["boxloader_maxload_lift","SLIDER",[localize "STR_boxloader_Max_lif_wei",localize "STR_boxloader_max_wei_play_can_lift_and_load_into_some_chest_height"],"Boxloader",[10,5000,50,0],true] call CBA_settings_fnc_init;
+["boxloader_maxload_overhead","SLIDER",[localize "STR_boxloader_Max_over_wei",localize "STR_boxloader_max_wei_play_can_lift_and_load_into_some_above_head"],"Boxloader",[10,5000,30,0],true] call CBA_settings_fnc_init;
+["boxloader_maxload_push","SLIDER",[localize "STR_boxloader_Max_push_wei",localize "STR_boxloader_max_wei_play_push_ground_and_load_into_ground_lev"],"Boxloader",[10,5000,200,0],true] call CBA_settings_fnc_init;
+["boxloader_maxload_minpush","SLIDER",[localize "STR_boxloader_Min_push_wei",localize "STR_boxloader_Only_obj_with_wei_above_this"],"Boxloader",[-1,1000,10,0],true] call CBA_settings_fnc_init;
 
-["boxloader_maxunload_enabled","CHECKBOX",["Enable player UNLOAD weight limits","Applies load weight limits to unloading. Less effective due to the 'unload all vehicles' action."],"Boxloader",false,true] call CBA_settings_fnc_init;
-["boxloader_preciseunload_enabled","CHECKBOX",["Enable precise unload","Allows using the precise unload action. Depending on the cargo and vehicle in question, this can cause clipping with explosive results."],"Boxloader",false,true] call CBA_settings_fnc_init;
+["boxloader_maxunload_enabled","CHECKBOX",[localize "STR_boxloader_Ena_play_UNL_wei_lim",localize "STR_boxloader_Appl_load_wei_limit_to_unloading"],"Boxloader",false,true] call CBA_settings_fnc_init;
+["boxloader_preciseunload_enabled","CHECKBOX",[localize "STR_boxloader_Ena_prec_unl",localize "STR_boxloader_Allow_using_precise_unl_act"],"Boxloader",false,true] call CBA_settings_fnc_init;
 
-["boxloader_allrepair_work","CHECKBOX",["Enable repair vehicles to build","Newly spawned vehicles capable of repair will be fortification construction vehicles."],"Boxloader",true,true] call CBA_settings_fnc_init;
-["boxloader_allrepair_load","CHECKBOX",["Enable repair vehicles to load","Newly spawned vehicles capable of repair will have load handling equipment."],"Boxloader",true,true] call CBA_settings_fnc_init;
-["boxloader_allrepair_weight","SLIDER",["Max repair vehicle load weight","(Newly spawned vehicles) The maximum weight a repair vehicle's loading equipment can load into a vehicle."],"Boxloader",[1000,50000,10000,0],true] call CBA_settings_fnc_init;
-["boxloader_allrepair_height","SLIDER",["Max repair vehicle load height","(Newly spawned vehicles) The maximum height a repair vehicle's loading equipment can reach."],"Boxloader",[1,20,5,0],true] call CBA_settings_fnc_init;
-["boxloader_allrepair_push","SLIDER",["Max repair vehicle push weight","(Newly spawned vehicles) The maximum weight a repair vehicle's loading equipment can push on the ground, should be as high or higher than its load weight."],"Boxloader",[1000,50000,10000,0],true] call CBA_settings_fnc_init;
+["boxloader_allrepair_work","CHECKBOX",[localize "STR_boxloader_Ena_rep_veh_bui",localize "STR_boxloader_New_spawn_veh_cap_rep_will_be_fort_const"],"Boxloader",true,true] call CBA_settings_fnc_init;
+["boxloader_allrepair_load","CHECKBOX",[localize "STR_boxloader_Ena_rep_veh_load",localize "STR_boxloader_New_spawn_veh_cap_of_rep_will_have_load_hand_equip"],"Boxloader",true,true] call CBA_settings_fnc_init;
+["boxloader_allrepair_weight","SLIDER",[localize "STR_boxloader_Max_rep_veh_load_wei",localize "STR_boxloader_New_spaw_veh_max_wei_rep_veh_load_equip_load_in_veh"],"Boxloader",[1000,50000,10000,0],true] call CBA_settings_fnc_init;
+["boxloader_allrepair_height","SLIDER",[localize "STR_boxloader_Max_rep_veh_load_height",localize "STR_boxloader_New_spaw_veh_The_max_height_rep_veh_load_equip_can_reach"],"Boxloader",[1,20,5,0],true] call CBA_settings_fnc_init;
+["boxloader_allrepair_push","SLIDER",[localize "STR_boxloader_Max_rep_veh_push_wei",localize "STR_boxloader_New_spawn_veh_The_max_wei_rep_veh_load_equip_can_push_on_ground"],"Boxloader",[1000,50000,10000,0],true] call CBA_settings_fnc_init;
 
 
 
 {
 	[_x select 0,"CHECKBOX",[_x select 1,_x select 2],["Boxloader","Bulldozing"],false,true] call CBA_settings_fnc_init;
 } forEach [
-	["boxloader_tractor_bulldoze","Enable Bulldozing","Allows the construction tractor to remove trees and bushes."],
-	["boxloader_tractor_bulldoze_hide","Bulldozing: 'Hide' type","Enables the bulldozing of 'hide' type terrain objects, which includes small rocks, but also sidewalks and others."],
-	["boxloader_tractor_bulldoze_fence","Bulldozing: 'Fence' type","Enables the bulldozing of 'fence' type terrain objects."],
-	["boxloader_tractor_bulldoze_wall","Bulldozing: 'Wall' type","Enables the bulldozing of 'fence' type terrain objects."],
-	//["boxloader_tractor_bulldoze_rock","Bulldozing: 'Rock' type","Enables the bulldozing of 'rock' type terrain objects, which are the LARGE rocks found on cliffs/coasts/etc. You probably want this one turned off."],
-	["boxloader_tractor_bulldoze_ruins","Bulldozing: Ruins","Enables the bulldozing of destroyed buildings, including map buildings."]
+	["boxloader_tractor_bulldoze",localize "STR_boxloader_Ena_Bulldozing",localize "STR_boxloader_Allow_cons_tractor_rem_trees_bush"],
+	["boxloader_tractor_bulldoze_hide",localize "Bulldozing: 'Hide' type",localize "STR_boxloader_Enable_bulldozin_terr_obj"],
+	["boxloader_tractor_bulldoze_fence",localize "Bulldozing: 'Fence' type",localize "STR_boxloader_Enable_bulldozin_fence_obj"],
+	["boxloader_tractor_bulldoze_wall",localize "Bulldozing: 'Wall' type",localize "STR_boxloader_Enable_bulldozin_fence_obj"],
+	//["boxloader_tractor_bulldoze_rock",localize "Bulldozing: 'Rock' type",localize "STR_boxloader_Enable_bulldozin_rock_object"],
+	["boxloader_tractor_bulldoze_ruins",localize "Bulldozing: Ruins",localize "STR_boxloader_Enable_bulldozin_destroy_build"]
 ];
 
 
