@@ -377,6 +377,787 @@
 //              <Chinesesimp></Chinesesimp>
 //              <Turkish>z</Turkish>
       </Key>
+
+
+
+      <Key ID="STR_boxloader_Pack_Car">
+              <Original>Pack Cargo</Original>
+              <English>Pack Cargo</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Empacar carga</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Unpack_Car">
+              <Original>PUnpack Cargo</Original>
+              <English>Unpack Cargo</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Desempacar carga</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_That_not_pal">
+              <Original>That's not a pallet!</Original>
+              <English>That's not a pallet!</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>¡Eso no es una paleta!</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Load">
+              <Original>Load </Original>
+              <English>Load </English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Cargar </Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_in_tar">
+              <Original> in target</Original>
+              <English> in target</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish> en objetivo</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Ena_Hid_Car_feat">
+              <Original>Enable ""Hide Cargo"" feature</Original>
+              <English>Enable ""Hide Cargo"" feature</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Habilitar característica ""Esconder carga""</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Ena_play_load_wei_lim">
+              <Original>Enable player load weight limits</Original>
+              <English>Enable player load weight limits</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Habilitar límites de peso de carga del jugador</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Ena_push_obj">
+              <Original>Enable pushing of objects.</Original>
+              <English>Enable pushing of objects.</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish></Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Max_lif_wei">
+              <Original>Maximum lift weight</Original>
+              <English>Maximum lift weight</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Peso máximo de elevación</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Max_over_wei">
+              <Original>Maximum overhead weight</Original>
+              <English>Maximum overhead weight</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Peso máximo para sobrecarga</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Max_push_wei">
+              <Original>Maximum push weight</Original>
+              <English>Maximum push weight</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Peso máximo a empujar</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Min_push_wei">
+              <Original>Minimum push weight</Original>
+              <English>Minimum push weight</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Peso de empuje mínimo</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Ena_play_UNL_wei_lim">
+              <Original>Enable player UNLOAD weight limits</Original>
+              <English>Enable player UNLOAD weight limits</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Habilitar límites de peso de DESCARGA del jugador</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Ena_prec_unl">
+              <Original>Enable precise unload</Original>
+              <English>Enable precise unload</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Habilitar descarga precisa</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Ena_rep_veh_bui">
+              <Original>Enable repair vehicles to build</Original>
+              <English>Enable repair vehicles to build</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Habilitar vehículos de reparación para construir</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Ena_rep_veh_load">
+              <Original>Enable repair vehicles to load</Original>
+              <English>Enable repair vehicles to load</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Permitir a los vehículos de reparación cargar</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Max_rep_veh_load_wei">
+              <Original>Max repair vehicle load weight</Original>
+              <English>Max repair vehicle load weight</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Carga máxima del vehículo de reparación</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Max_rep_veh_load_height">
+              <Original>Max repair vehicle load height</Original>
+              <English>Max repair vehicle load height</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Altura máxima de carga del vehículo de reparación</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Max_rep_veh_push_wei">
+              <Original>Max repair vehicle push weight</Original>
+              <English>Max repair vehicle push weight</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Peso máximo de empuje del vehículo de reparación</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Can_be_chang_mid_mis.">
+              <Original>Can be changed mid-mission.</Original>
+              <English>Can be changed mid-mission.</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Puede ser cambiado a mitad de la misión.</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Lim_wei_play_can_load_push">
+              <Original>Limits the weight that players can load and push.</Original>
+              <English>Limits the weight that players can load and push.</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Limita el peso que los jugadores pueden cargar y empujar.</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Ena_push_sys">
+              <Original>Enables the pushing system.</Original>
+              <English>Enables the pushing system.</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Habilita el sistema de empuje.</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_max_wei_play_can_lift_and_load_into_some_chest_height">
+              <Original>The maximum weight a player can lift and load into something to chest height.</Original>
+              <English>The maximum weight a player can lift and load into something to chest height.</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>El peso máximo que un jugador puede levantar y cargar en algo a la altura del pecho.</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_max_wei_play_can_lift_and_load_into_some_above_head">
+              <Original>The maximum weight a player can lift and load into something above their head.</Original>
+              <English>The maximum weight a player can lift and load into something above their head.</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>El peso máximo que un jugador puede levantar y cargar en algo por encima de su cabeza.</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_max_wei_play_push_ground_and_load_into_ground_lev">
+              <Original>The maximum weight a player push on the ground, and load into things near ground level.</Original>
+              <English>The maximum weight a player push on the ground, and load into things near ground level.</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>El peso máximo que un jugador puede empujar y cargar en cosas al nivel del suelo.</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Only_obj_with_wei_above_this">
+              <Original>Only objects with a weight above this can be pushed, anything below can still be loaded. Should be at least zero to prevent pushing ""weightless"" objects.</Original>
+              <English>Only objects with a weight above this can be pushed, anything below can still be loaded. Should be at least zero to prevent pushing ""weightless"" objects.</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Solo se pueden empujar objetos con un peso por encima de esto, todo lo que se encuentra debajo todavía se puede cargar. Debe ser al menos cero para evitar empujar objetos "sin peso".</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Appl_load_wei_limit_to_unloading">
+              <Original>Applies load weight limits to unloading. Less effective due to the 'unload all vehicles' action.</Original>
+              <English>Applies load weight limits to unloading. Less effective due to the 'unload all vehicles' action.</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Aplica límites de peso de carga a la descarga. Menos efectivo debido a la acción 'descargar todos los vehículos'.</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Allow_using_precise_unl_act">
+              <Original>Allows using the precise unload action. Depending on the cargo and vehicle in question, this can cause clipping with explosive results.</Original>
+              <English>Allows using the precise unload action. Depending on the cargo and vehicle in question, this can cause clipping with explosive results.</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Permite utilizar la acción de descarga precisa. Dependiendo de la carga y el vehículo en cuestión, esto puede causar errores con resultados explosivos.</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_New_spawn_veh_cap_rep_will_be_fort_const">
+              <Original>Newly spawned vehicles capable of repair will be fortification construction vehicles.</Original>
+              <English>Newly spawned vehicles capable of repair will be fortification construction vehicles.</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Los vehículos recién aparecidos capaces de reparación serán vehículos de construcción para fortificaciones.</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_New_spawn_veh_cap_of_rep_will_have_load_hand_equip">
+              <Original>Newly spawned vehicles capable of repair will have load handling equipment.</Original>
+              <English>Newly spawned vehicles capable of repair will have load handling equipment.</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Los vehículos recién aparecidos capaces de reparación tendrán equipo de manejo de carga.</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_New_spaw_veh_max_wei_rep_veh_load_equip_load_in_veh">
+              <Original>(Newly spawned vehicles) The maximum weight a repair vehicle's loading equipment can load into a vehicle.</Original>
+              <English>(Newly spawned vehicles) The maximum weight a repair vehicle's loading equipment can load into a vehicle.</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>(Vehículos nuevos) El peso máximo que un equipo de carga de un vehículo de reparación puede cargar en otro vehículo.</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_New_spaw_veh_The_max_height_rep_veh_load_equip_can_reach">
+              <Original>(Newly spawned vehicles) The maximum height a repair vehicle's loading equipment can reach.</Original>
+              <English>(Newly spawned vehicles) The maximum height a repair vehicle's loading equipment can reach.</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>(Vehículos recién engendrados) La altura máxima que puede alcanzar el equipo de carga de un vehículo de reparación.</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_New_spawn_veh_The_max_wei_rep_veh_load_equip_can_push_on_ground">
+              <Original>(Newly spawned vehicles) The maximum weight a repair vehicle's loading equipment can push on the ground, should be as high or higher than its load weight.</Original>
+              <English>(Newly spawned vehicles) The maximum weight a repair vehicle's loading equipment can push on the ground, should be as high or higher than its load weight.</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>(Vehículos recién aparecidos) El peso máximo que el equipo de carga de un vehículo de reparación puede empujar en el suelo, debe ser tan alto o más alto que su peso de carga.</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Ena_Bulldozing">
+              <Original>"Enable Bulldozing</Original>
+              <English>Enable Bulldozing</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Habilitar nivelación</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Allow_cons_tractor_rem_trees_bush">
+              <Original>Allows the construction tractor to remove trees and bushes.</Original>
+              <English>Allows the construction tractor to remove trees and bushes.</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Permite que el tractor de construcción elimine árboles y arbustos.</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Enable_bulldozin_terr_obj">
+              <Original>Enables the bulldozing of 'hide' type terrain objects, which includes small rocks, but also sidewalks and others.</Original>
+              <English>Enables the bulldozing of 'hide' type terrain objects, which includes small rocks, but also sidewalks and others.</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Permite la nivelación de objetos de terreno tipo 'ocultar', que incluye rocas pequeñas, pero también aceras y otros.</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Enable_bulldozin_fence_obj">
+              <Original>Enables the bulldozing of 'fence' type terrain objects.</Original>
+              <English>Enables the bulldozing of 'fence' type terrain objects.</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Permite la nivelación de objetos de terreno tipo 'cerca'.</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+
+      <Key ID="STR_boxloader_Enable_bulldozin_rock_object">
+              <Original>Enables the bulldozing of 'rock' type terrain objects, which are the LARGE rocks found on cliffs/coasts/etc. You probably want this one turned off.</Original>
+              <English>Enables the bulldozing of 'rock' type terrain objects, which are the LARGE rocks found on cliffs/coasts/etc. You probably want this one turned off.</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Permite la nivelación de objetos de terreno tipo 'roca', que son las rocas GRANDES que se encuentran en acantilados/costas/etc. Probablemente quieras que este esté apagado.</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Enable_bulldozin_destroy_build">
+              <Original>Enables the bulldozing of destroyed buildings, including map buildings.</Original>
+              <English>Enables the bulldozing of destroyed buildings, including map buildings.</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Permite la demolición de edificios destruidos, incluidos los edificios del mapa.</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
     </Container>
   </Package>
 </Project>
