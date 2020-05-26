@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="boxloader_Descripcion">
+  <Package name="boxloader__Info">
+    <Container name="boxloader__actions">
+      <Key ID="STR_boxloader_Sel_load_tar">
+              <Original>Select loading target</Original>
+              <English>Select loading target</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Seleccionar como destino de carga</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+      <Key ID="STR_boxloader_Sel_Load">
+              <Original>Select loader</Original>
+              <English>Select loader</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Seleccionar cargador</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+      <Key ID="STR_boxloader_Loa_this_in_tar">
+              <Original>Load this in target</Original>
+              <English>Load this in target</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Cargue esto en el objetivo</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Unlo_Obj">
+              <Original>Unload object</Original>
+              <English>Unload object</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Descargar Objeto</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Hid_car">
+              <Original>Hide cargo</Original>
+              <English>Hide cargo</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Esconder carga</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Sho_car">
+              <Original>Show cargo</Original>
+              <English>Show cargo</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Mostrar carga</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Push">
+              <Original>Push</Original>
+              <English>Push</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Empujar</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Push_obj">
+              <Original>Push object</Original>
+              <English>Push object</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Empujar objeto</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Sel_cons_veh">
+              <Original>Select construction vehicle</Original>
+              <English>Select construction vehicle</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Seleccionar vehículo de construcción</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Prec_Unlo">
+              <Original>Precise Unload</Original>
+              <English>Precise Unload</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>Descarga precisa</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+
+
+
+      <Key ID="STR_boxloader_Don_wit_cons_veh">
+              <Original>&lt;t color='#FF0000'&gt;Done with construction vehicle&lt;/t&gt;</Original>
+              <English>&lt;t color='#FF0000'&gt;Done with construction vehicle&lt;/t&gt;</English>
+//              <Czech></Czech>
+//              <German></German>
+//              <Russian></Russian>
+//              <Polish></Polish>
+//              <Italian></Italian>
+              <Spanish>&lt;t color='#FF0000'&gt;Finalizado vehículo de construcción&lt;/t&gt;</Spanish>
+//              <French></French>
+//              <Chinese></Chinese>
+//              <Japanese></Japanese>
+//              <Korean></Korean>
+//              <Portuguese></Portuguese>
+//              <Chinesesimp></Chinesesimp>
+//              <Turkish>z</Turkish>
+      </Key>
+    </Container>
+  </Package>
+</Project>
