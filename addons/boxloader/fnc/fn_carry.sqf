@@ -1,12 +1,12 @@
 params [["_obj",objNull,[objNull]],["_pos",[0,0,0],[[]],[2,3]],["_dir",0,[0]],["_lift",0.5,[0]]];
 if (isNull _obj) exitWith {false};
-_obj addAction ["Pick Up Equipment",{
+_obj addAction [localize "STR_boxloader_Pick_Equip",{
 	params ["_obj","_ply"];
 	(_this select 3) params ["_pos","_dir","_lift"];
 	_obj attachTo [_ply,_pos];
 	_obj setdir _dir;
 	
-	_ac=_ply addAction ["Drop Equipment",{
+	_ac=_ply addAction [localize "STR_boxloader_Drop_Equip",{
 		(_this select 3) params ["_obj","_ply","_pos","_dir","_lift"];
 		_obj attachTo [_ply,(_pos vectorAdd [0,0,_lift])];
 		_obj setdir _dir; 
